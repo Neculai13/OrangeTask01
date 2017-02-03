@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeTask01", "OrangeTask01\OrangeTask01.csproj", "{DFEFFA5B-9AFF-4A33-8C26-33EE220356A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{2ADA4B5B-E212-4EFA-93F4-D0709D4F3B1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{C8461E22-77C5-4A0D-A118-BB9E6F149AD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DFEFFA5B-9AFF-4A33-8C26-33EE220356A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFEFFA5B-9AFF-4A33-8C26-33EE220356A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFEFFA5B-9AFF-4A33-8C26-33EE220356A0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2ADA4B5B-E212-4EFA-93F4-D0709D4F3B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2ADA4B5B-E212-4EFA-93F4-D0709D4F3B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2ADA4B5B-E212-4EFA-93F4-D0709D4F3B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2ADA4B5B-E212-4EFA-93F4-D0709D4F3B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8461E22-77C5-4A0D-A118-BB9E6F149AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8461E22-77C5-4A0D-A118-BB9E6F149AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8461E22-77C5-4A0D-A118-BB9E6F149AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8461E22-77C5-4A0D-A118-BB9E6F149AD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
